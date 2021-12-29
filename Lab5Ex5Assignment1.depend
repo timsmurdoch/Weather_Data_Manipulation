@@ -1,0 +1,161 @@
+# depslib dependency file v1.0
+1586265729 source:c:\users\cc\documents\ict283\topic05\lab5ex5assignment1\date.cpp
+	"Date.h"
+
+1586265729 c:\users\cc\documents\ict283\topic05\lab5ex5assignment1\date.h
+	<string>
+	<string.h>
+	<iostream>
+
+1587405090 source:c:\users\cc\documents\ict283\topic05\lab5ex5assignment1\time.cpp
+	"Time.h"
+
+1587405225 c:\users\cc\documents\ict283\topic05\lab5ex5assignment1\time.h
+
+1587461980 source:c:\users\cc\documents\ict283\topic05\lab5ex5assignment1\main.cpp
+	"DATE.h"
+	"Time.h"
+	"Vector.h"
+	"CalculateSSD.h"
+	<iostream>
+	<fstream>
+
+1587385849 c:\users\cc\documents\ict283\topic05\lab5ex5assignment1\vector.h
+	<iostream>
+
+1587451543 source:c:\users\cc\documents\ict283\topic05\lab5ex5assignment1\calculatessd.cpp
+	"CalculateSSD.h"
+
+1587451543 c:\users\cc\documents\ict283\topic05\lab5ex5assignment1\calculatessd.h
+	<iostream>
+	<fstream>
+	<cmath>
+	"vector.h"
+
+1587956033 source:c:\users\cc\documents\ict283\assignment1\lab5ex5assignment1\calculatessd.cpp
+	"CalculateSSD.h"
+
+1587956014 c:\users\cc\documents\ict283\assignment1\lab5ex5assignment1\calculatessd.h
+	<iostream>
+	<fstream>
+	<cmath>
+	"vector.h"
+
+1588516436 c:\users\cc\documents\ict283\assignment1\lab5ex5assignment1\vector.h
+	<iostream>
+
+1588503585 source:c:\users\cc\documents\ict283\assignment1\lab5ex5assignment1\date.cpp
+	"Date.h"
+
+1588506445 c:\users\cc\documents\ict283\assignment1\lab5ex5assignment1\date.h
+	<string>
+	<string.h>
+
+1587405090 source:c:\users\cc\documents\ict283\assignment1\lab5ex5assignment1\time.cpp
+	"Time.h"
+
+1588503585 c:\users\cc\documents\ict283\assignment1\lab5ex5assignment1\time.h
+
+1588508316 source:c:\users\cc\documents\ict283\assignment1\lab5ex5assignment1\main.cpp
+	<iostream>
+	<fstream>
+	"WindlogType.h"
+	"SortingWeatherData.h"
+	"Calculations.h"
+	"Vector.h"
+
+1588506220 source:c:\users\cc\documents\ict283\assignment1\lab5ex5assignment1\sortingweatherdata.cpp
+	"SortingWeatherData.h"
+
+1588516914 c:\users\cc\documents\ict283\assignment1\lab5ex5assignment1\sortingweatherdata.h
+	"Vector.h"
+	"WindLogType.h"
+
+1588516914 c:\users\cc\documents\ict283\assignment1\lab5ex5assignment1\windlogtype.h
+	"DATE.h"
+	"Time.h"
+
+1588506220 c:\users\cc\documents\ict283\assignment1\lab5ex5assignment1\calculations.h
+	"Vector.h"
+	<cmath>
+
+1588503585 source:c:\users\cc\documents\ict283\topic08\finalassignment1\date.cpp
+	"Date.h"
+
+1588506445 c:\users\cc\documents\ict283\topic08\finalassignment1\date.h
+	<string>
+	<string.h>
+
+1589361744 source:c:\users\cc\documents\ict283\topic08\finalassignment1\sortingweatherdata.cpp
+	"SortingWeatherData.h"
+
+1589361744 c:\users\cc\documents\ict283\topic08\finalassignment1\sortingweatherdata.h
+	"Vector.h"
+	"WindLogType.h"
+
+1589302343 c:\users\cc\documents\ict283\topic08\finalassignment1\vector.h
+	<iostream>
+	<vector>
+
+1588516914 c:\users\cc\documents\ict283\topic08\finalassignment1\windlogtype.h
+	"DATE.h"
+	"Time.h"
+
+1588503585 c:\users\cc\documents\ict283\topic08\finalassignment1\time.h
+
+1587405090 source:c:\users\cc\documents\ict283\topic08\finalassignment1\time.cpp
+	"Time.h"
+
+1589388638 source:c:\users\cc\documents\ict283\topic08\finalassignment1\main.cpp
+	<iostream>
+	<fstream>
+	<chrono>
+	"WindlogType.h"
+	"SortingWeatherData.h"
+	"Calculations.h"
+	"Vector.h"
+
+1588516914 c:\users\cc\documents\ict283\topic08\finalassignment1\calculations.h
+	"Vector.h"
+	<cmath>
+
+1588503585 source:c:\users\cc\documents\ict283\topic08\topic8timotyhsmith\date.cpp
+	"Date.h"
+
+1588506445 c:\users\cc\documents\ict283\topic08\topic8timotyhsmith\date.h
+	<string>
+	<string.h>
+
+1589388638 source:c:\users\cc\documents\ict283\topic08\topic8timotyhsmith\main.cpp
+	<iostream>
+	<fstream>
+	<chrono>
+	"WindlogType.h"
+	"SortingWeatherData.h"
+	"Calculations.h"
+	"Vector.h"
+
+1588516914 c:\users\cc\documents\ict283\topic08\topic8timotyhsmith\windlogtype.h
+	"DATE.h"
+	"Time.h"
+
+1588503585 c:\users\cc\documents\ict283\topic08\topic8timotyhsmith\time.h
+
+1589361744 c:\users\cc\documents\ict283\topic08\topic8timotyhsmith\sortingweatherdata.h
+	"Vector.h"
+	"WindLogType.h"
+
+1589302343 c:\users\cc\documents\ict283\topic08\topic8timotyhsmith\vector.h
+	<iostream>
+	<vector>
+
+1588516914 c:\users\cc\documents\ict283\topic08\topic8timotyhsmith\calculations.h
+	"Vector.h"
+	<cmath>
+
+1589361744 source:c:\users\cc\documents\ict283\topic08\topic8timotyhsmith\sortingweatherdata.cpp
+	"SortingWeatherData.h"
+
+1587405090 source:c:\users\cc\documents\ict283\topic08\topic8timotyhsmith\time.cpp
+	"Time.h"
+

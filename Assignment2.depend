@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1591518481 source:c:\users\cc\documents\ict283\s1\assignment2timothysmith\date.cpp
+	"Date.h"
+
+1591518481 c:\users\cc\documents\ict283\s1\assignment2timothysmith\date.h
+	<string>
+	<string.h>
+
+1592054932 source:c:\users\cc\documents\ict283\s1\assignment2timothysmith\main.cpp
+	<iostream>
+	<fstream>
+	"SortingWeatherData.h"
+	"Calculations.h"
+	"Vector.h"
+
+1591975788 c:\users\cc\documents\ict283\s1\assignment2timothysmith\windlogtype.h
+	"DATE.h"
+	"Time.h"
+
+1591518485 c:\users\cc\documents\ict283\s1\assignment2timothysmith\time.h
+
+1592055111 c:\users\cc\documents\ict283\s1\assignment2timothysmith\sortingweatherdata.h
+	"BSTCallbacks.h"
+
+1592054851 c:\users\cc\documents\ict283\s1\assignment2timothysmith\vector.h
+	<iostream>
+	<vector>
+
+1588516914 c:\users\cc\documents\ict283\s1\assignment2timothysmith\calculations.h
+	"Vector.h"
+	<cmath>
+
+1591968816 source:c:\users\cc\documents\ict283\s1\assignment2timothysmith\sortingweatherdata.cpp
+	"SortingWeatherData.h"
+
+1591518481 source:c:\users\cc\documents\ict283\s1\assignment2timothysmith\time.cpp
+	"Time.h"
+
+1592054817 c:\users\cc\documents\ict283\s1\assignment2timothysmith\bst.h
+
+1592043651 c:\users\cc\documents\ict283\s1\assignment2timothysmith\storeyeardata.h
+	<map>
+	"WindLogType.h"
+	"Vector.h"
+
+1592043651 source:c:\users\cc\documents\ict283\s1\assignment2timothysmith\storeyeardata.cpp
+	"StoreYearData.h"
+
+1591975788 source:c:\users\cc\documents\ict283\s1\assignment2timothysmith\bstcallbacks.cpp
+	"BSTCallbacks.h"
+
+1592055111 c:\users\cc\documents\ict283\s1\assignment2timothysmith\bstcallbacks.h
+	"BST.h"
+	"StoreYearData.h"
+
+1591975788 source:c:\users\cc\documents\ict283\assignment2timothysmith\bstcallbacks.cpp
+	"BSTCallbacks.h"
+
+1592055111 c:\users\cc\documents\ict283\assignment2timothysmith\bstcallbacks.h
+	"BST.h"
+	"StoreYearData.h"
+
+1592054817 c:\users\cc\documents\ict283\assignment2timothysmith\bst.h
+
+1592043651 c:\users\cc\documents\ict283\assignment2timothysmith\storeyeardata.h
+	<map>
+	"WindLogType.h"
+	"Vector.h"
+
+1591975788 c:\users\cc\documents\ict283\assignment2timothysmith\windlogtype.h
+	"DATE.h"
+	"Time.h"
+
+1591518481 c:\users\cc\documents\ict283\assignment2timothysmith\date.h
+	<string>
+	<string.h>
+
+1591518485 c:\users\cc\documents\ict283\assignment2timothysmith\time.h
+
+1592054851 c:\users\cc\documents\ict283\assignment2timothysmith\vector.h
+	<iostream>
+	<vector>
+
+1591518481 source:c:\users\cc\documents\ict283\assignment2timothysmith\date.cpp
+	"Date.h"
+
+1592054932 source:c:\users\cc\documents\ict283\assignment2timothysmith\main.cpp
+	<iostream>
+	<fstream>
+	"SortingWeatherData.h"
+	"Calculations.h"
+	"Vector.h"
+
+1592055111 c:\users\cc\documents\ict283\assignment2timothysmith\sortingweatherdata.h
+	"BSTCallbacks.h"
+
+1588516914 c:\users\cc\documents\ict283\assignment2timothysmith\calculations.h
+	"Vector.h"
+	<cmath>
+
+1592043651 source:c:\users\cc\documents\ict283\assignment2timothysmith\storeyeardata.cpp
+	"StoreYearData.h"
+
+1591518481 source:c:\users\cc\documents\ict283\assignment2timothysmith\time.cpp
+	"Time.h"
+
+1592055174 source:c:\users\cc\documents\ict283\assignment2timothysmith\sortingweatherdata.cpp
+	"SortingWeatherData.h"
+
