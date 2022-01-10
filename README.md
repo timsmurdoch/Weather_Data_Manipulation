@@ -1,6 +1,7 @@
 # Weather_Data_Manipulation
 To Run the program:
-After downloading the repo run the "Weather_Data_Manipulation.exe" file.
+
+Option 1: After downloading the repo run the "Weather_Data_Manipulation.exe" file.
 Option 2: Open Assignment2.cbp in code blocks.
 
 https://user-images.githubusercontent.com/44633869/148734141-4dc24b44-cd99-4273-a115-0c71c503b4df.mp4
