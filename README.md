@@ -3,7 +3,7 @@ To Run the program:
 After downloading the repo run the "Weather_Data_Manipulation.exe" file.
 Option 2: Open Assignment2.cbp in code blocks.
 
-![Imgur Image](https://imgur.com/a/Fk7NJsY)
+![Imgur Video](https://imgur.com/a/Fk7NJsY)
 
 # About this program
 This program will take in weather data from a CSV file and sorts it into memory through a map within a BST for fast manipulation.
